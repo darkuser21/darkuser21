@@ -15,8 +15,6 @@ Hey What's up?<br>My name is Sanny i am a cyber Security and Digital Forensic Ex
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=darkuser21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-![snake gif](https://github.com/darkuser21/darkuser21/blob/output/github-contribution-grid-snake.gif)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
